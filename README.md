@@ -42,8 +42,13 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 ## Day 4
 ### Learning Visual Basics Applications with Excel
 
--	Revision + Submission of all assignments before lunch (Day)
--	30 minutes assessment on visual basic for applications with excel (Afternoon)
+##### Revision (Day 4 1st half)
+-	Submit In Class Assignments
+-	Revision for Visual Basic
+
+##### Test (Day 4 2nd half)
+-	30 minutes assessment on Visual Basic
+
 
 ## VB & VB.NET
 
@@ -82,11 +87,11 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 ## Day 10
 ### Revision & Test
 
-##### Revision (Day 6 1st half)
+##### Revision (Day 10 1st half)
 -	Submit In Class Assignments
 -	Revision for Visual Basic
 
-##### Test (Day 6 2nd half)
+##### Test (Day 10 2nd half)
 -	30 minutes assessment on Visual Basic
 
 
