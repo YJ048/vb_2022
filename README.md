@@ -73,7 +73,7 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 
 -	VB-L5 - Procedures & Arguments (Part 1) (No Exercises)
 -	VB-L6 - Procedures & Arguments (Part 2) (No Exercises)
--	
+
 #### Total Exercises to submit for VB: 0
 
 ## Day 8
