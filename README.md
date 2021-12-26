@@ -92,6 +92,8 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 ## Day 9
 ### Learning Visual Basics
 
+- LESSON TO BE ADDED ACCORDINGLY
+- LESSON TO BE ADDED ACCORDINGLY
 
 #### Total Exercises to submit for VB: 2
 
