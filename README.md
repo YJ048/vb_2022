@@ -7,6 +7,10 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 1. The VB modules can only be done on a windows computer (VB programming meant to build windows application)
 2. Install **visual studio 2022** on your windows computer
 
+### Important Note for Trainers:
+On Fridays release the student between 1pm - 3pm instead of the usual 12pm. this is to accomodate for the muslim
+students for their friday prayers.
+
 # Course Outline
 
 ## VBA with EXCEL
