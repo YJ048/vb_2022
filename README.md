@@ -85,15 +85,15 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 ### Learning Visual Basics
 
 -	VB-L7 - Decisions and debugging (Exercises)
--	VB-L8 - Looping Constructs and Iteration (Exercises)
+
 
 #### Total Exercises to submit for VB: 2
 
 ## Day 9
 ### Learning Visual Basics
 
-- LESSON TO BE ADDED ACCORDINGLY
-- LESSON TO BE ADDED ACCORDINGLY
+-	VB-L8 - Looping Constructs and Iteration (Exercises)
+-	Submit In Class Assignments
 
 #### Total Exercises to submit for VB: 2
 
@@ -102,7 +102,7 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 ### Revision & Test
 
 ##### Revision (Day 10 1st half)
--	Submit In Class Assignments
+
 -	Revision for Visual Basic
 
 ##### Test (Day 10 2nd half)
