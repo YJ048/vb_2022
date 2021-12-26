@@ -48,6 +48,7 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 
 ##### Test (Day 4 2nd half)
 -	30 minutes assessment on Visual Basic
+-	Go through the answers with the students
 
 
 ## VB & VB.NET
@@ -56,6 +57,10 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 ### Environment Setup & Learning Visual Basics
 
 -	VB-L1 - Visual Basic introduction (Exercises)
+-	Learn the resources available online for VB:
+  1. https://www.tutorialspoint.com/vb.net/vb.net_web_programming.htm
+  2. https://www.w3schools.com/asp/webpages_examples.asp (look at the BASIC VB section)
+  3. https://www.javatpoint.com/vb-net
 -	VB-L2 – Data types & arrays (No Exercises)
 
 #### Total Exercises to submit for VB: 1
@@ -84,6 +89,13 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 
 #### Total Exercises to submit for VB: 2
 
+## Day 9
+### Learning Visual Basics
+
+
+#### Total Exercises to submit for VB: 2
+
+
 ## Day 10
 ### Revision & Test
 
@@ -93,6 +105,7 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 
 ##### Test (Day 10 2nd half)
 -	30 minutes assessment on Visual Basic
+-	Go through the answers with the students
 
 
 ###### Course Materials created by the **Aceninja Pte Ltd**
