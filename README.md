@@ -7,9 +7,9 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 1. The VB modules can only be done on a windows computer (VB programming meant to build windows application)
 2. Install **visual studio 2022** on your windows computer
 
-## VBA with EXCEL
-
 # Course Outline
+
+## VBA with EXCEL
 
 ## Day 1
 ### Environment Setup & Learning Visual Basics Applications with Excel
