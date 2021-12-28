@@ -7,6 +7,10 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 1. The VB modules can only be done on a windows computer (VB programming meant to build windows application)
 2. Install **visual studio 2022** on your windows computer
 
+### Important Note for Trainers:
+On Fridays release the student between 1pm - 3pm instead of the usual 12pm. this is to accomodate for the muslim
+students for their friday prayers.
+
 # Course Outline
 
 ## VBA with EXCEL
@@ -85,24 +89,24 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 ### Learning Visual Basics
 
 -	VB-L7 - Decisions and debugging (Exercises)
--	VB-L8 - Looping Constructs and Iteration (Exercises)
 
-#### Total Exercises to submit for VB: 2
+
+#### Total Exercises to submit for VB: 1
 
 ## Day 9
 ### Learning Visual Basics
 
-- LESSON TO BE ADDED ACCORDINGLY
-- LESSON TO BE ADDED ACCORDINGLY
+-	VB-L8 - Looping Constructs and Iteration (Exercises)
+-	Submit In Class Assignments
 
-#### Total Exercises to submit for VB: 2
+#### Total Exercises to submit for VB: 1
 
 
 ## Day 10
 ### Revision & Test
 
 ##### Revision (Day 10 1st half)
--	Submit In Class Assignments
+
 -	Revision for Visual Basic
 
 ##### Test (Day 10 2nd half)
