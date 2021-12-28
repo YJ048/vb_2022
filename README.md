@@ -91,7 +91,7 @@ students for their friday prayers.
 -	VB-L7 - Decisions and debugging (Exercises)
 
 
-#### Total Exercises to submit for VB: 2
+#### Total Exercises to submit for VB: 1
 
 ## Day 9
 ### Learning Visual Basics
@@ -99,7 +99,7 @@ students for their friday prayers.
 -	VB-L8 - Looping Constructs and Iteration (Exercises)
 -	Submit In Class Assignments
 
-#### Total Exercises to submit for VB: 2
+#### Total Exercises to submit for VB: 1
 
 
 ## Day 10
