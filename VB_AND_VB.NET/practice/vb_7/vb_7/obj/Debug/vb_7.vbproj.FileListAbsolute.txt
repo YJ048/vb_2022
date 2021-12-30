@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\bin\Debug\vb_7.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\bin\Debug\vb_7.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\bin\Debug\vb_7.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\bin\Debug\vb_7.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\obj\Debug\vb_7.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\obj\Debug\vb_7.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\obj\Debug\vb_7.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\obj\Debug\vb_7.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\obj\Debug\vb_7.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\obj\Debug\vb_7.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\obj\Debug\vb_7.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\obj\Debug\vb_7.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7\vb_7\obj\Debug\vb_7.pdb

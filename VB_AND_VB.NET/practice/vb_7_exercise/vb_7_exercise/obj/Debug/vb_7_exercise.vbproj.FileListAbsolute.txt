@@ -1,0 +1,12 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\bin\Debug\vb_7_exercise.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\bin\Debug\vb_7_exercise.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\bin\Debug\vb_7_exercise.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\bin\Debug\vb_7_exercise.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\obj\Debug\vb_7_exercise.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\obj\Debug\vb_7_exercise.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\obj\Debug\vb_7_exercise.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\obj\Debug\vb_7_exercise.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\obj\Debug\vb_7_exercise.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\obj\Debug\vb_7_exercise.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\obj\Debug\vb_7_exercise.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_7_exercise\vb_7_exercise\obj\Debug\vb_7_exercise.pdb
