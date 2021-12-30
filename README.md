@@ -51,7 +51,7 @@ students for their friday prayers.
 -	Revision for Visual Basic
 
 ##### Test (Day 4 2nd half)
--	30 minutes assessment on Visual Basic
+-	45 minutes assessment on VBA
 -	Go through the answers with the students
 
 
