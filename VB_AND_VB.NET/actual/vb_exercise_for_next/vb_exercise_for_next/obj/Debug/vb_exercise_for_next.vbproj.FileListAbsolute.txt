@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\bin\Debug\vb_exercise_for_next.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\bin\Debug\vb_exercise_for_next.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\bin\Debug\vb_exercise_for_next.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\bin\Debug\vb_exercise_for_next.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\obj\Debug\vb_exercise_for_next.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\obj\Debug\vb_exercise_for_next.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\obj\Debug\vb_exercise_for_next.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\obj\Debug\vb_exercise_for_next.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\obj\Debug\vb_exercise_for_next.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\obj\Debug\vb_exercise_for_next.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\obj\Debug\vb_exercise_for_next.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\obj\Debug\vb_exercise_for_next.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_for_next\vb_exercise_for_next\obj\Debug\vb_exercise_for_next.pdb

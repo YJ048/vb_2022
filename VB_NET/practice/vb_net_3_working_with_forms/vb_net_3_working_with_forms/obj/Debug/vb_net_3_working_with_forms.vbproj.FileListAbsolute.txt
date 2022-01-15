@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\bin\Debug\vb_net_3_working_with_forms.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\bin\Debug\vb_net_3_working_with_forms.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\bin\Debug\vb_net_3_working_with_forms.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\bin\Debug\vb_net_3_working_with_forms.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\obj\Debug\vb_net_3_working_with_forms.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\obj\Debug\vb_net_3_working_with_forms.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\obj\Debug\vb_net_3_working_with_forms.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\obj\Debug\vb_net_3_working_with_forms.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\obj\Debug\vb_net_3_working_with_forms.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\obj\Debug\vb_net_3_working_with_forms.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\obj\Debug\vb_net_3_working_with_forms.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\obj\Debug\vb_net_3_working_with_forms.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_working_with_forms\vb_net_3_working_with_forms\obj\Debug\vb_net_3_working_with_forms.Form1.resources

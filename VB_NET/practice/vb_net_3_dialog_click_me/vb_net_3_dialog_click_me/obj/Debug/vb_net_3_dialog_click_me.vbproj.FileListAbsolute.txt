@@ -1,0 +1,12 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\obj\Debug\vb_net_3_dialog_click_me.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\obj\Debug\vb_net_3_dialog_click_me.Dialog.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\obj\Debug\vb_net_3_dialog_click_me.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\obj\Debug\vb_net_3_dialog_click_me.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\obj\Debug\vb_net_3_dialog_click_me.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\bin\Debug\vb_net_3_dialog_click_me.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\bin\Debug\vb_net_3_dialog_click_me.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\bin\Debug\vb_net_3_dialog_click_me.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\bin\Debug\vb_net_3_dialog_click_me.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\obj\Debug\vb_net_3_dialog_click_me.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\obj\Debug\vb_net_3_dialog_click_me.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_click_me\vb_net_3_dialog_click_me\obj\Debug\vb_net_3_dialog_click_me.pdb

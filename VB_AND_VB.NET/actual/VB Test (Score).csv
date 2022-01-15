@@ -1,0 +1,228 @@
+Timestamp,Email address,Exercise,Score,Fill in your full name ,1) Which is not a main component of the Visual Studio IDE?,2) Which is not true about forms and controls in Visual Basic?,3) Which task can be accomplished in the Code editor?,4) Which is a numeric data type?,5) The Boolean data type ______ ,Answer for Question 6 ,7) The Button control can be activated:,8) What should be the outcome of this code?,9) You use a For…Next Loop is used when:,Answer for Question 10
+14/01/2022 14:58:42,alwayshappy30@yahoo.com,6/6,10 / 10,Choong Tzun Hau,Start Menu,New versions of the classes must be created with each project.,All of the above.,All of the above,c) only have True or False as an outcome,"Public Sub oneDimension()
+    Dim myNumbers(3) as Integer
+    myNumbers(0) = 100
+    myNumbers(1) = 200
+   myNumbers(2) = 300
+   myNumbers(3) = 400
+
+   MsgBox( ""myNumbers third element is "" & myNumbers(2))
+
+End Sub",Both a and b.,An Error will be thrown,c) a block of statements is executed a known number of times.,"Public Function myFunction(ByVal j As Integer) As Double
+   Dim result As Double
+   result = j * 3.142
+  Return(result)
+End Function"
+14/01/2022 15:15:00,ryantay75@gmail.com,6/6,8.8 / 10,Tay Guan Peng Ryan,Start Menu,New versions of the classes must be created with each project.,Adding event procedures to the form,All of the above,c) only have True or False as an outcome,"Private Sub oneDimension(), Dim myNumber(4) As Integer, myNumber(0) = 100, myNumber(1) = 200, myNumber(2) = 300, myNumber(3) = 400, MsgBox  (myNumber(2)), End Sub",Both a and b.,An Error will be thrown,c) a block of statements is executed a known number of times.,"Private Function myFunction(ByVal j As Integer) As Double, Return(j * 3.142) , End Function"
+14/01/2022 15:22:30,lambda1804@gmail.com,6/6,10 / 10,Li Weibin,Start Menu,New versions of the classes must be created with each project.,All of the above.,All of the above,c) only have True or False as an outcome,"    Private Sub oneDimension()
+        Dim myNumbers(3) As Integer
+
+        myNumbers(0) = 100
+        myNumbers(1) = 200
+        myNumbers(2) = 300
+        myNumbers(3) = 400
+
+        MsgBox(myNumbers(2))
+    End Sub",Both a and b.,An Error will be thrown,c) a block of statements is executed a known number of times.,"    Private Function myFunction(ByVal j As Integer) As Double
+        Return (j * 3.142)
+    End Function"
+14/01/2022 15:25:18,hg.tay@outlook.com,6/6,9 / 10,Tay Hock Gek,Start Menu,New versions of the classes must be created with each project.,Adding event procedures to the form,All of the above,c) only have True or False as an outcome,"Private Sub oneDimension(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim myNumbers() As Integer = {100, 200, 300, 400}
+
+        MsgBox(myNumbers(2))
+
+
+  End Sub",Both a and b.,An Error will be thrown,c) a block of statements is executed a known number of times.,"Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim j As Integer, result As Double
+
+        j = TextBox1.Text
+        result = myFunction(j)
+        MsgBox(result)
+    End Sub
+
+Private Function myFunction(j As Integer) As Double
+        Return (j * 3.142)
+    End Function
+End Class"
+14/01/2022 15:27:09,jackiewee88@gmail.com,6/6,8.6 / 10,Jackie Wee Sim Nam,Start Menu,New versions of the classes must be created with each project.,All of the above.,All of the above,c) only have True or False as an outcome,"Public Class Form1
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim intDataArray() As Integer
+        Dim intNumber As Integer
+        For intNumber = 0 To 3
+
+            myNumber(0) = 100
+            myNumber(1) = 200
+            myNumber(2) = 300
+            myNumber(3) = 400
+            MsgBox(The number 2 Is 200 )
+
+
+
+    End Sub
+End Class",Both a and b.,High Salary,c) a block of statements is executed a known number of times.,"Private sub Multplication (ByVal j As Integer
+    Dim intResult As Integer 
+    intResult = j * 3.142
+    MsgBox(intResult)
+End Sub
+Private Function Multiplication(ByVal As Integer)
+    Return (0)"
+14/01/2022 15:28:31,au201883@yahoo.com,6/6,9.8 / 10,Lim Kian Beng,Start Menu,New versions of the classes must be created with each project.,All of the above.,All of the above,c) only have True or False as an outcome,"Public Class Form1
+    Private Sub oneDimension(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim myNumbers As Integer = {100, 200, 300, 400}
+        Dim intLoop As Integer
+
+        MsgBox(intLoop)
+
+    End Sub
+End Class",Both a and b.,An Error will be thrown,c) a block of statements is executed a known number of times.,"Public Class Form1
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+        Dim intInput1 As Integer
+        Dim j As Integer
+        Dim intResult As Integer
+
+        intInput1 = txtInput1.Text
+
+        intResult = myFunction((intInput1)
+        MsgBox(intResult)
+
+    End Sub
+    Private Function myFunction(ByVal i1 As Integer) As Integer
+
+        Return (i1 * 3.142)
+
+    End Function
+
+End Class"
+14/01/2022 15:28:40,hannahjong1@gmail.com,6/6,8.8 / 10,Mariana Jong,Start Menu,New versions of the classes must be created with each project.,Adding event procedures to the form,All of the above,c) only have True or False as an outcome,"Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click        
+
+        Dim myNumbers (4) As Integer
+        myNumbers (0) = 100
+        myNumbers (1) = 200
+        myNumbers (2) = 300
+        myNumbers (3) = 400
+
+        MsgBox(myNumbers (2))
+
+    End Sub
+",Both a and b.,An Error will be thrown,c) a block of statements is executed a known number of times.,"Private Function myFunction(ByVal j As Integer)
+        Dim dbResult As Double
+        Return (j * 3.142)
+ End Function"
+14/01/2022 15:29:30,epsoh2012@gmail.com,6/6,8 / 10,SOH ENG PENG,Start Menu,New versions of the classes must be created with each project.,Adding event procedures to the form,All of the above,c) only have True or False as an outcome,"Private Sub oneDimension()
+	Dim MyNumbers() as Integer = {100,200,300,400}
+	MessageBox.Show(""Number 2 in array is "" & CStr(MyNumbers(2)))
+End Sub",Both a and b.,High Salary,c) a block of statements is executed a known number of times.,"Private Function myFunction(ByVal j as integer) As Double
+	Return(j * 3.142)
+End Function"
+14/01/2022 15:33:45,henghlai@gmail.com,6/6,10 / 10,Heng Hong Lai,Start Menu,New versions of the classes must be created with each project.,All of the above.,All of the above,c) only have True or False as an outcome,"    Private Sub oneDimension()
+        Dim myNumbers(3) As Integer
+
+        myNumbers(0) = 100
+        myNumbers(1) = 200
+        myNumbers(2) = 300
+        myNumbers(3) = 400
+
+        MsgBox(""The value Of number 2 In the argument Is "" & myNumbers(2))
+
+    End Sub",Both a and b.,An Error will be thrown,c) a block of statements is executed a known number of times.,"    Private Function myFunction(ByVal j As Integer) As Double
+        Dim dbResult As Double
+
+        dbResult = j * 3.142
+        Return (dbResult)
+    End Function"
+14/01/2022 15:34:25,ericlohmail@gmail.com,6/6,9 / 10,Loh Tze Siong Eric,Start Menu,New versions of the classes must be created with each project.,All of the above.,All of the above,c) only have True or False as an outcome,"Private Sub oneDimension()
+        Dim myNumbers(3) As Integer
+        myNumbers = {100, 200, 300, 400}
+
+        MsgBox(myNumbers(2))
+
+    End Sub
+End Class",Both a and b.,High Salary,c) a block of statements is executed a known number of times.,"Private Function myFunction(ByVal j As Integer) As Double
+        Dim myResult As Double
+
+        myResult = j * 3.142
+        Return (myResult)
+    End Function"
+14/01/2022 15:34:53,johnchin2c@gmail.com,6/6,8.8 / 10,Chin Chee Choy John,Start Menu,New versions of the classes must be created with each project.,All of the above.,All of the above,c) only have True or False as an outcome,"Public Class Form1
+    Private Sub oneDimension()
+        Dim myNumber(3) As Integer
+        myNumber = {100, 200, 300, 400}
+        MsgBox(myNumber(2))
+    End Sub
+End Class",Both a and b.,High Salary,c) a block of statements is executed a known number of times.,"Private Function myFunction(ByVal j As integer) As Double
+   j = TextBox1.Text
+   j= j*3.142
+   Return (j)
+ End Function"
+14/01/2022 15:35:12,cyndisc.tan@hotmail.com,6/6,9 / 10,Tan Siew  Choo,Start Menu,New versions of the classes must be created with each project.,All of the above.,All of the above,c) only have True or False as an outcome,"Private Sub oneDimension(ByVal myNumbers() As Integer)
+
+        myNumber(0) = 100
+        myNumber(1) = 200
+        myNumber(2) = 300
+        myNumber(3) = 400
+
+        MsgBox(myNumber(2))
+",Both a and b.,High Salary,c) a block of statements is executed a known number of times.,"Private Sub Number(ByVal j As Integer)
+        myFunction(j)
+
+Private Function myFunction(ByVal j As Integer) As Double
+        Dim result As Double
+        result = 3.1412 * j
+        Return (result)"
+14/01/2022 15:36:42,cssclm@yahoo.com.sg,6/6,9 / 10,Lim Chee Seng,Start Menu,New versions of the classes must be created with each project.,All of the above.,All of the above,c) only have True or False as an outcome,"Private Sub oneDimension(ByVal myNumbers() As Integer)
+
+        myNumber(0) = 100
+        myNumber(1) = 200
+        myNumber(2) = 300
+        myNumber(3) = 400
+
+        MsgBox(myNumber(2))",Both a and b.,High Salary,c) a block of statements is executed a known number of times.,"Private Sub Number(ByVal j as integer)
+     myFunction(j)
+
+Private Function myFunction(ByVal j as integer) As Double
+     Dim result as double    
+     result = 3.1412 * j
+     return(result)
+End Function
+"
+14/01/2022 15:37:11,8035667@gmail.com,6/6,10 / 10,Wee Valencia,Start Menu,New versions of the classes must be created with each project.,All of the above.,All of the above,c) only have True or False as an outcome,"Public Sub oneDimension()
+Dim myNumbers() As Integer = {100, 200, 300, 400}
+		MsgBox(myNumbers(2))
+End Sub",Both a and b.,An Error will be thrown,c) a block of statements is executed a known number of times.,"Public Function myFunction(ByVal j As Integer) As Double
+Dim result As Double
+result = (j * 3.142)
+Return (result)
+End Function
+"
+14/01/2022 15:37:36,ktang99@hotmail.com,6/6,7.4 / 10,Wong Wai Lin,Start Menu,They are pre-built.,All of the above.,All of the above,c) only have True or False as an outcome,"Array i =(100, 200, 300, 400)
+MsgBox (2) 
+",Both a and b.,An Error will be thrown,c) a block of statements is executed a known number of times.,"Dim j As Double
+myFunction = j*3.142
+"
+14/01/2022 15:39:09,sallyshyeo@yahoo.com.sg,6/6,9 / 10,Yeo Sok Hoong,Start Menu,New versions of the classes must be created with each project.,All of the above.,All of the above,c) only have True or False as an outcome,"Public Sub oneDiamension()
+Dim myNumber  () As Integer 
+myNumber = {100,200,300,400}
+MsgBox(myNumber(2))",Both a and b.,High Salary,c) a block of statements is executed a known number of times.,"Private Function myFunction (ByVal j As Integer) As Double
+Return ( j * 3.142)
+End Function"
+14/01/2022 15:39:59,koongky_2006@yahoo.com,6/6,8 / 10,Koong Kong Yick,Start Menu,New versions of the classes must be created with each project.,Adding event procedures to the form,All of the above,c) only have True or False as an outcome,"Private Sub oneDimension(ByVal myNumbers As Integer)
+     
+       myNumbers= {100, 200, 300, 400)
+       MsgBox(myNumbers[2])
+End Sub",Both a and b.,High Salary,c) a block of statements is executed a known number of times.,"Private Function myFunction(ByVal j As Integer) As Double
+   Dim intResult As Double
+   intResult = j * 3.142
+   Return(intResult)
+End Function"
+14/01/2022 16:05:14,katewpl25@gmail.com,6/6,7.3 / 10,Wong Poy Ling,Start Menu,New versions of the classes must be created with each project.,Adding event procedures to the form,All of the above,c) only have True or False as an outcome,"Private Sub oneDimension(ByVal myNumbers() As Integer)
+
+        myNumber(0) = 100
+        myNumber(1) = 200
+        myNumber(2) = 300
+        myNumber(3) = 400
+
+        MsgBox(myNumber(2))",Both a and b.,An Error will be thrown,a) a choice is made based on a Boolean condition.,"Private  Function myFunction (ByVal A1 As Integer, ByVal A2 As Integer) As Integer
+            Return (A1)
+End Function
+"

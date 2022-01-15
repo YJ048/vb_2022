@@ -1,0 +1,10 @@
+' Format
+
+Private Sub Name(ByVal A1 As Integer, ByVal A2 As Integer)
+	' Code
+End Sub
+
+Private Function Name(ByVal A1 As Integer, ByVal A2 As Integer) As Integer
+	' Code
+	Return (0)	' Returned is the output of Function
+End Function

@@ -1,0 +1,3 @@
+Q6
+Procedure = Sub Routine
+6.5 put number 2 inside the my array bracket (i.e. I want the value of the 3rd pos)

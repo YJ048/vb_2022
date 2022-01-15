@@ -1,0 +1,12 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\bin\Debug\vb_net_3_forms_accept_button.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\bin\Debug\vb_net_3_forms_accept_button.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\bin\Debug\vb_net_3_forms_accept_button.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\bin\Debug\vb_net_3_forms_accept_button.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\obj\Debug\vb_net_3_forms_accept_button.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\obj\Debug\vb_net_3_forms_accept_button.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\obj\Debug\vb_net_3_forms_accept_button.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\obj\Debug\vb_net_3_forms_accept_button.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\obj\Debug\vb_net_3_forms_accept_button.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\obj\Debug\vb_net_3_forms_accept_button.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\obj\Debug\vb_net_3_forms_accept_button.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_forms_accept_button\vb_net_3_forms_accept_button\obj\Debug\vb_net_3_forms_accept_button.pdb

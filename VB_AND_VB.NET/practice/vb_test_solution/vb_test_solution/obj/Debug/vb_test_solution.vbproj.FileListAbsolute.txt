@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\bin\Debug\vb_test_solution.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\bin\Debug\vb_test_solution.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\bin\Debug\vb_test_solution.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\bin\Debug\vb_test_solution.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\obj\Debug\vb_test_solution.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\obj\Debug\vb_test_solution.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\obj\Debug\vb_test_solution.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\obj\Debug\vb_test_solution.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\obj\Debug\vb_test_solution.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\obj\Debug\vb_test_solution.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\obj\Debug\vb_test_solution.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\obj\Debug\vb_test_solution.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\vb_test_solution\vb_test_solution\obj\Debug\vb_test_solution.pdb

@@ -1,0 +1,12 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\bin\Debug\vb_net_3_dialog_open_text_file.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\bin\Debug\vb_net_3_dialog_open_text_file.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\bin\Debug\vb_net_3_dialog_open_text_file.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\bin\Debug\vb_net_3_dialog_open_text_file.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\obj\Debug\vb_net_3_dialog_open_text_file.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\obj\Debug\vb_net_3_dialog_open_text_file.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\obj\Debug\vb_net_3_dialog_open_text_file.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\obj\Debug\vb_net_3_dialog_open_text_file.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\obj\Debug\vb_net_3_dialog_open_text_file.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\obj\Debug\vb_net_3_dialog_open_text_file.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\obj\Debug\vb_net_3_dialog_open_text_file.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_dialog_open_text_file\vb_net_3_dialog_open_text_file\obj\Debug\vb_net_3_dialog_open_text_file.pdb

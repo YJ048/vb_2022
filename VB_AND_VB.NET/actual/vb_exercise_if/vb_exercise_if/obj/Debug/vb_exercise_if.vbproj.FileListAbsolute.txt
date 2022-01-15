@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\bin\Debug\vb_exercise_if.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\bin\Debug\vb_exercise_if.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\bin\Debug\vb_exercise_if.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\bin\Debug\vb_exercise_if.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\obj\Debug\vb_exercise_if.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\obj\Debug\vb_exercise_if.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\obj\Debug\vb_exercise_if.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\obj\Debug\vb_exercise_if.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\obj\Debug\vb_exercise_if.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\obj\Debug\vb_exercise_if.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\obj\Debug\vb_exercise_if.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\obj\Debug\vb_exercise_if.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_if\vb_exercise_if\obj\Debug\vb_exercise_if.pdb

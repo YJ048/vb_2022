@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\obj\Debug\EqualityOperator.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\obj\Debug\EqualityOperator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\obj\Debug\EqualityOperator.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\obj\Debug\EqualityOperator.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\obj\Debug\EqualityOperator.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\obj\Debug\EqualityOperator.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\bin\Debug\EqualityOperator.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\bin\Debug\EqualityOperator.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\bin\Debug\EqualityOperator.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\bin\Debug\EqualityOperator.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\obj\Debug\EqualityOperator.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\obj\Debug\EqualityOperator.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\practice\EqualityOperator\EqualityOperator\obj\Debug\EqualityOperator.pdb

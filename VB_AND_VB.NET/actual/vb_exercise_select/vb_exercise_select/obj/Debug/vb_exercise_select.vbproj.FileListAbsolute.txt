@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\bin\Debug\vb_exercise_select.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\bin\Debug\vb_exercise_select.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\bin\Debug\vb_exercise_select.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\bin\Debug\vb_exercise_select.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\obj\Debug\vb_exercise_select.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\obj\Debug\vb_exercise_select.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\obj\Debug\vb_exercise_select.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\obj\Debug\vb_exercise_select.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\obj\Debug\vb_exercise_select.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\obj\Debug\vb_exercise_select.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\obj\Debug\vb_exercise_select.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\obj\Debug\vb_exercise_select.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_select\vb_exercise_select\obj\Debug\vb_exercise_select.pdb

@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\bin\Debug\vb_exercise_do.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\bin\Debug\vb_exercise_do.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\bin\Debug\vb_exercise_do.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\bin\Debug\vb_exercise_do.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\obj\Debug\vb_exercise_do.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\obj\Debug\vb_exercise_do.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\obj\Debug\vb_exercise_do.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\obj\Debug\vb_exercise_do.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\obj\Debug\vb_exercise_do.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\obj\Debug\vb_exercise_do.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\obj\Debug\vb_exercise_do.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\obj\Debug\vb_exercise_do.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_do\vb_exercise_do\obj\Debug\vb_exercise_do.vbproj.AssemblyReference.cache

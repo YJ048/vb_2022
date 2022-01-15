@@ -1,0 +1,12 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\bin\Debug\vb_exercise_nested.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\bin\Debug\vb_exercise_nested.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\bin\Debug\vb_exercise_nested.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\bin\Debug\vb_exercise_nested.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\obj\Debug\vb_exercise_nested.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\obj\Debug\vb_exercise_nested.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\obj\Debug\vb_exercise_nested.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\obj\Debug\vb_exercise_nested.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\obj\Debug\vb_exercise_nested.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\obj\Debug\vb_exercise_nested.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\obj\Debug\vb_exercise_nested.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_nested\vb_exercise_nested\obj\Debug\vb_exercise_nested.pdb

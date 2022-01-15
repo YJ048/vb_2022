@@ -1,0 +1,11 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_start_from_sub\vb_net_3_start_from_sub\bin\Debug\vb_net_3_start_from_sub.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_start_from_sub\vb_net_3_start_from_sub\bin\Debug\vb_net_3_start_from_sub.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_start_from_sub\vb_net_3_start_from_sub\bin\Debug\vb_net_3_start_from_sub.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_start_from_sub\vb_net_3_start_from_sub\bin\Debug\vb_net_3_start_from_sub.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_start_from_sub\vb_net_3_start_from_sub\obj\Debug\vb_net_3_start_from_sub.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_start_from_sub\vb_net_3_start_from_sub\obj\Debug\vb_net_3_start_from_sub.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_start_from_sub\vb_net_3_start_from_sub\obj\Debug\vb_net_3_start_from_sub.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_start_from_sub\vb_net_3_start_from_sub\obj\Debug\vb_net_3_start_from_sub.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_start_from_sub\vb_net_3_start_from_sub\obj\Debug\vb_net_3_start_from_sub.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_start_from_sub\vb_net_3_start_from_sub\obj\Debug\vb_net_3_start_from_sub.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_start_from_sub\vb_net_3_start_from_sub\obj\Debug\vb_net_3_start_from_sub.pdb

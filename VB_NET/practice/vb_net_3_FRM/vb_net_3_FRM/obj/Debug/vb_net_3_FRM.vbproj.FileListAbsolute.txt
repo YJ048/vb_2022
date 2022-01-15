@@ -1,0 +1,14 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\bin\Debug\vb_net_3_FRM.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\bin\Debug\vb_net_3_FRM.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\bin\Debug\vb_net_3_FRM.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\bin\Debug\vb_net_3_FRM.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\obj\Debug\vb_net_3_FRM.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\obj\Debug\vb_net_3_FRM.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\obj\Debug\vb_net_3_FRM.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\obj\Debug\vb_net_3_FRM.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\obj\Debug\vb_net_3_FRM.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\obj\Debug\vb_net_3_FRM.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\obj\Debug\vb_net_3_FRM.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\obj\Debug\vb_net_3_FRM.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\obj\Debug\vb_net_3_FRM.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_NET\practice\vb_net_3_FRM\vb_net_3_FRM\obj\Debug\vb_net_3_FRM.Form2.resources

@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\bin\Debug\vb_exercise_while.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\bin\Debug\vb_exercise_while.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\bin\Debug\vb_exercise_while.pdb
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\bin\Debug\vb_exercise_while.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\obj\Debug\vb_exercise_while.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\obj\Debug\vb_exercise_while.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\obj\Debug\vb_exercise_while.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\obj\Debug\vb_exercise_while.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\obj\Debug\vb_exercise_while.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\obj\Debug\vb_exercise_while.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\obj\Debug\vb_exercise_while.exe
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\obj\Debug\vb_exercise_while.xml
+C:\Users\Yang Jing\Documents\GitHub\vb_2022\VB_AND_VB.NET\actual\vb_exercise_while\vb_exercise_while\obj\Debug\vb_exercise_while.pdb
